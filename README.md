@@ -23,4 +23,4 @@ Currently a Frontend Engineer at [AnAI](https://an-ai.ai/).
 
 ### Links
 
-[Blog](https://devlog.dropai.site/) [GitHub](https://github.com/whizzkid1452) [Work GitHub](https://github.com/HURRAEY)
+[Blog](https://devlog.dropai.site/) | [GitHub](https://github.com/whizzkid1452) | [Work GitHub](https://github.com/HURRAEY)
