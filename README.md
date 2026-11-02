@@ -1,12 +1,10 @@
-<p>
-  <img src="./assets/terminal.svg" alt="whizzkid1452 - Frontend Engineer. Side projects, small tools, and engineering notes." width="100%" />
-</p>
-
 ## About
 
-Hello, I'm Sengjin Kim. I build tools I use and write about what I learn along the way.
+Hello, I'm a Frontend Engineer building high-performance web applications and interactive desktop tools. 
 
-My interests include frontend development, audio, and small libraries that simplify recurring work.
+I specialize in complex state management, responsive UI performance, and scalable component architecture. 
+
+Currently a Frontend Engineer at [AnAI](https://an-ai.ai/).
 
 ### Libraries
 
@@ -22,6 +20,7 @@ My interests include frontend development, audio, and small libraries that simpl
 - **Tone.js** - Fixed [audio scheduling](https://github.com/Tonejs/Tone.js/pull/1458) and improved [test coverage](https://github.com/Tonejs/Tone.js/pull/1453).
 - **Web Audio API** - Submitted [output-device switching clarifications](https://github.com/WebAudio/web-audio-api/pull/2684) and fixed [Git configuration](https://github.com/WebAudio/web-audio-api/pull/2682) and [contribution docs](https://github.com/WebAudio/web-audio-api/pull/2683).
 
+
 ### Links
 
-[Blog](https://devlog.dropai.site/) · [GitHub](https://github.com/whizzkid1452) · [Work GitHub](https://github.com/HURRAEY)
+[Blog](https://devlog.dropai.site/) [GitHub](https://github.com/whizzkid1452) [Work GitHub](https://github.com/HURRAEY)
